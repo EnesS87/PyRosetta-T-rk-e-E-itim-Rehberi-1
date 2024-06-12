@@ -16,11 +16,17 @@ Bu rehber, bilimsel dipnotlar ve detaylı açıklamalar içerir.
 
 Kurulum ve gereksinimlerle ilgili bilgiler ilgili Python dosyasının içerisinde bulunmaktadır.
 
-2. **Repository'yi Klonlayın**:
-    ```bash
-    git clone https://github.com/EnesS87/PyRosetta-Turkce-Egitim-Rehberi-1.git
-    cd PyRosetta-Turkce-Egitim-Rehberi-1
-    ```
+
+## Kullanım
+
+Eğitim rehberini başlatmak için aşağıdaki adımları izleyin:
+
+### Repository'yi Klonlayın
+
+```bash
+git clone https://github.com/EnesS87/PyRosetta-Turkce-Egitim-Rehberi-1.git
+cd PyRosetta-Turkce-Egitim-Rehberi-1
+```
 
 ## Katkıda Bulunma
 
