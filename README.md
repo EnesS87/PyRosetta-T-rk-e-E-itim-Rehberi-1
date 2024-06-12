@@ -28,6 +28,18 @@ git clone https://github.com/EnesS87/PyRosetta-Turkce-Egitim-Rehberi-1.git
 cd PyRosetta-Turkce-Egitim-Rehberi-1
 ```
 
+### İlgili Python Dosyasını Çalıştırın
+
+```bash
+python egitim_rehberi.py
+```
+
+### Eğitim Materyallerini Takip Edin
+
+```bash
+Adım adım eğitim materyallerini takip edin ve verilen örnekleri inceleyin.
+```
+
 ## Katkıda Bulunma
 
 Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
